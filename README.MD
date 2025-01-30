@@ -6,16 +6,6 @@ The student role allows students to browse and comment on alumni posts, and sear
 
 Overall, Alumni Connect is designed to facilitate interaction and engagement between alumni and students, as well as provide valuable insights into alumni success.
 
-Here are some snapshots
-
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826577-737dec66-9a8c-43db-b0fc-1258c17b77dd.png"><img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826642-9c7c3695-a684-472f-9824-8fa4572e1720.png">
-
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826681-ffc06865-46eb-47be-ae5a-9e85988d4823.png">
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826700-ac183fed-2d47-4f5e-a33f-2d099e91ab9d.png">
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826734-e73716ab-75ea-4fe3-a4d7-ed97cba7234c.png">
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/118751863/219826815-e760e3b0-8931-4f1d-b06c-8957b42b1d1a.png">
-
-  
 
 To the run this repo , follow these steps
 ###### Run migrations to migrate tables to database.
